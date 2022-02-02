@@ -1,6 +1,6 @@
 # AppleRepro
 
-Update 02/02/22: Still reproduceable
+Update 02/02/22: Can't repro on Xcode 13.2.1 anymore 🥳
 
 To reproduce:
 
